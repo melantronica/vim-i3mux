@@ -27,18 +27,18 @@ execute command in i3 window <session>
 ### I3muxRedo <session>
 redo last command in i3 window <session>
 ```
-I3muxRedo a
+:I3muxRedo a
 ```
 
 ### I3muxHide <session>
 move i3 window <session> to workspace 99
 ```
-I3muxHide a
+:I3muxHide a
 ```
 
 ### I3muxShow <session>
 move i3 window <session> back to focused workspace
 ```
-I3muxShow a
+:I3muxShow a
 ```
 
