@@ -42,3 +42,17 @@ move i3 window {session} back to focused workspace
 :I3muxShow a
 ```
 
+### I3muxDetach {session}
+detach i3 windows {session}
+this closes the window but leaved the session for later use
+```
+:I3muxDeach a
+```
+
+### I3muxAttach {session}
+attach previously closed i3mux session
+```
+:I3muxAttach a
+```
+
+
